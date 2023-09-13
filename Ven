@@ -41,7 +41,7 @@ while True:
         print("Result:", multiply(num1, num2))
     elif choice == '4':
 lif choice == '4':
-        print("Resulte:", divide(num1, num2))
+        print("Resulte:", dividfe(num1, num2))
     else:
         print("Invalid input1")
 
