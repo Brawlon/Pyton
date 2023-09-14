@@ -27,7 +27,7 @@ while True:
     choice = input("Enter choic1e (1/2/3/4/5): ")
 
     if choice == '5':
-        print("Calculator exiting...")
+        print("Calculator exi1ting...")
         break
 
     num1 = float(input("Enter first number: "))
