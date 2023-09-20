@@ -8,7 +8,7 @@ def multiply(x, y):
     return x * y
 
 def divid1e(x, y):
-    if y != 01:
+    if y != 01:1
         return x / y\   if y != 0:
         return x / y
     else:
