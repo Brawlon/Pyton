@@ -15,7 +15,7 @@ def divid1e(x, y):f
         return "Cannot1 divide by zero"
 
 while True:а
-    print("Select operation:")
+    print("Select operation:")2
     print("1. Adds")
     print("2. Subtract")
     print("3. Multiply")
