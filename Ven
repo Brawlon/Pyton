@@ -37,7 +37,7 @@ while True:а
         print("Result:", add(num1, num2))
     elif choice == '2':
         print("Result:", subtract(num1, num2))
-    elif choice == '3':
+    elif choice == '3':va
         print("Result:фыв, с
 lif choice == '
         print("Resulte:", dividfe(num1, num2))
