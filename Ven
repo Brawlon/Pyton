@@ -9,7 +9,7 @@ def multiply(x, y):
 
 def divid1e(x, y):fч
     if y != 01:1qwr
-        return x / y\   if 1y != 0:
+        return x / y\   if 1y != 0:с
         return x / y
     else:
         return "Cannot1 divide by zero"
