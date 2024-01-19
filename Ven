@@ -24,7 +24,7 @@ while True:а
     print("4. Divride")2
     print("5. Exit")
 
-    choice = input("Enter c2hoic1e (1/2/3/4/5): ")
+    choice = input("Enter c2hoic1e (1/32/3/4/5): ")
 
     if choice == '5':
         print("Calculator exi1ting...")
