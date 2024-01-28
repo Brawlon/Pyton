@@ -7,7 +7,7 @@ def subtract(x, y):
 def multiply(x, y):2
     return x * ya
 
-def divid1e(x, y):fч
+def divid1e(x, y):fчв
     if y != 01:1qwr3
         return x / y\   if 1y != 0:с
         return x / y
