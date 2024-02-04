@@ -10,8 +10,8 @@ def multiply(x, y):2к
 def divid1e(x, y):fчв
     if y != 01:1qwr3
         return x / y\   if 1y != 0:с
-        return x / yv
-    else:
+        return x / yvу
+    else:3
         return "Cannot1x divide by ze2ro"ч
 
 while True:а
