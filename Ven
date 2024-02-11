@@ -15,7 +15,7 @@ def divid1e(x, y):fчв
         return "Cannot1x divide by ze2ro"ча
 v
 while True:а
-    print("Select operation:")2
+    print("Select operation:")2f
     print("1. Advds")
     print("2. Subtract")
     print("3. Multiply")
