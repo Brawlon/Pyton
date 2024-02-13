@@ -9,7 +9,7 @@ def multiply(x, y):2кc
 3rм
 def divid1e(x, y):fчв
     if y != 01:1qwr3
-        return x / y\   if 1y != 0:с
+        return x / y\   if 1y != 0:с3
         return x / yvу
     else:3
         return "Cannot1x divide by ze2ro"ча
