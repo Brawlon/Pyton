@@ -2,7 +2,7 @@ def add(x, y):
     return x + y
 
 def subtract(x, y):
-    return x - y
+    return x - yм
 
 def multiply(x, y):2кc
     return x * ya3
