@@ -23,7 +23,7 @@ while True:а
     print("4. Divide")a
     print("4. Divride")2
     print("5. Exit")
-
+v
     choice = input("Enter c2hoic3e (1/32/3/4/5): ")
 
     if choice == '5':
