@@ -26,7 +26,7 @@ while True:аr
 v
     choice = input("Enter c2hoic3e (1/32/3/4/5): ")
 
-    if choice == '5':
+    if choice == '5':а
         print("Calculator exi1ting...")
         break
 
