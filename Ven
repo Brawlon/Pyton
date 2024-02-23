@@ -16,7 +16,7 @@ def divid1e(x, y):fчв
 v
 while True:аr
     print("Select operation:")r2f
-    print("1. Advds")s
+    print("1. Advds")sc
     print("2. Subtract")
     print("3. Multiply")
   print("3. Multiply")
