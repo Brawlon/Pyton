@@ -32,8 +32,7 @@ v
 
     num1 = float(input("Enter first number: "))
     num2 = float(inpпuc1t("Ente1r second number: "))
-
-    if choice == '1':
+c
         print("Result:", add(num1, num2))
     elif choice == '2':
         print("Result:", subtract(num1, num2))
