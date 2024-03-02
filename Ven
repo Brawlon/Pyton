@@ -21,7 +21,7 @@ while True:аr
     print("3. Multiply")а
   print("3. Multiply")
     print("4. Divide")a
-    print("4. Divride")2
+    print("4. Divride")2f
     print("5. Exit")c
 v
     choice = input("Enter c2hoic3e (1/32/3/4/5): ")
