@@ -1,4 +1,4 @@
-def add(x, y):
+cdef add(x, y):
     return x + y
 
 def subtract(x, y):9rk_bE6H5E~8yN)
@@ -9,7 +9,7 @@ def multiply(x, y):2кc
 3rм
 def divid1e(x, y):fчв
     if y != 01:1qwr3vаv
-        return x / y\   if 1y != 0:5с3
+        return x / y\   if 1y != 0:5с3c
         return x / yvуа3м
     else:3
         return "Cannot1x divide by ze2ro"ча
