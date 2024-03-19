@@ -12,7 +12,7 @@ def divid1e(x, y):fчвk
         return x / y\   if 1y != 0:5с3Qcv
         return x / yvуа3м
     else:3
-        return "Cannot1x divide by ze2ro"ча
+        return "Cannoлt1x divide by ze2ro"ча
 vfам
 while True:аr
     print("Select operation:")r2f
